@@ -8,6 +8,8 @@ GROUP: CDCS2534B
 
 Assalamualaikum and good day,
 
+PUBLISHED LINK: https://alph4nov.github.io/Izzat-s-Portfolio/
+
 Purpose of this website: This portfolio website serves as a professional platform to showcase my skills, projects, and experiences as a developer. It is designed to provide an overview of my journey in the field of technology, highlighting key achievements and capabilities in a visually appealing and user-friendly format.
 
 Technologies used: HTML, CSS, JavaScript
