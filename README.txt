@@ -28,4 +28,8 @@ Special Feature:
 
 4. Skills Overview: A dynamic representation of skills, with a clean and intuitive layout to demonstrate expertise.
 
+<<<<<<< Updated upstream
 5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
+=======
+5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
+>>>>>>> Stashed changes
