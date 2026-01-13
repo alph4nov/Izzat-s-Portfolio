@@ -1,10 +1,6 @@
-Online Portfolio CSC541
+MY PORTFOLIO
 
-NAME: IZZAT MAHFUZ BIN IDRIS
-STUDENT ID: 2024542747
-GROUP: CDCS2534B
-
-1/12/2024
+1/12/2024 (latest edit on 13/1/2026)
 
 Assalamualaikum and good day,
 
@@ -18,7 +14,7 @@ IDE: Microsoft VS Code
 
 Posted on GitHub pages
 
-Special Feature: 
+Special Feature:
 
 1. Interactive Design: Visually engaging interface with smooth transitions and hover effects over the elements to enhance user experience.
 
@@ -27,17 +23,3 @@ Special Feature:
 3. Project Highlights: Dedicated sections for projects with detailed descriptions, interactive elements, and media support (images/videos).
 
 4. Skills Overview: A dynamic representation of skills, with a clean and intuitive layout to demonstrate expertise.
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
-=======
-5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
->>>>>>> Stashed changes
-=======
-5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
->>>>>>> Stashed changes
-=======
-5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
->>>>>>> Stashed changes
