@@ -30,7 +30,11 @@ Special Feature:
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
+=======
+5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
+>>>>>>> Stashed changes
 =======
 5. Custom Styling: Utilizes modern CSS techniques, including grid layouts and animations, for a polished and professional look.
 >>>>>>> Stashed changes
